@@ -1,0 +1,5 @@
+.build/
+dist/
+.DS_Store
+# Local planning and machine-specific validation notes
+docs/
