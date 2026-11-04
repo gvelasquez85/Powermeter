@@ -18,7 +18,7 @@ Instala Xcode/Command Line Tools compatibles y ejecuta:
 open dist/Powermeter.app
 ```
 
-El script genera un binario universal y firma ad hoc para uso local. No está notarizado. Para distribuir fuera de uso local se necesita firma Developer ID y notarización. 
+El script genera un binario universal y firma ad hoc para uso local. No está notarizado. Para distribuir fuera de uso local se necesita firma Developer ID y notarización.
 
 ## Medición y permisos
 
